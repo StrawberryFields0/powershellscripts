@@ -1,0 +1,166 @@
+[
+    {
+        "Username": "CEO",
+        "OU": "Executive"
+    },
+    {
+        "Username": "COO",
+        "OU": "Executive"
+    },
+    {   
+        "Username": "CFO",
+        "OU":"Executive"
+    },
+    {   
+        "Username": "CTO",
+        "OU":"Executive"
+    },
+    {   
+        "Username": "CISO",
+        "OU":"Executive"
+    },
+    {   
+        "Username": "President",
+        "OU":"Executive"
+    },
+    {   
+        "Username": "VP_Marketing",
+        "OU":"Executive"
+    },
+    {   
+        "Username": "VP_OPPS",
+        "OU":"Executive"
+    },
+    {   
+        "Username": "VP_IT",
+        "OU":"Executive"
+    },
+    {   
+        "Username": "VP_ACCT",
+        "OU":"Executive"
+    },
+    {   
+        "Username": "Cheif_Consul",
+        "OU":"Executive"
+    },
+    {   
+        "Username": "VP_HR",
+        "OU":"Executive"
+    },
+    {   
+        "Username": "Director_HR",
+        "OU":"Executive"
+    },
+    {   
+        "Username": "DIrector_IT",
+        "OU":"Executive"
+    },
+    {   
+        "Username": "Executive_Secretary",
+        "OU":"Executive"
+    },
+    {   
+        "Username": "Director_Opps",
+        "OU":"Executive"
+    },
+    {   
+        "Username": "Director_Facilities",
+        "OU":"Executive"
+    },
+    {   
+        "Username": "Director_conslur",
+        "OU":"Executive"
+    },
+    {   
+        "Username": "Director_Shareholer_Relations",
+        "OU":"Executive"
+    },
+    {   
+        "Username": "Director_RnD",
+        "OU":"Executive"
+    },
+    {   
+        "Username": "Director_Quality",
+        "OU":"Executive"
+    },
+    {   
+        "Username": "Director_ForignRelations",
+        "OU":"Executive"
+    },
+    {   
+        "Username": "Director_Compliance",
+        "OU":"Executive"
+    },
+    {   
+        "Username": "Director_IA",
+        "OU":"Executive"
+    },
+    {   
+        "Username": "Director_OFFSecurity",
+        "OU":"Executive"
+    },
+    {   
+        "Username": "Director_DefSecurity",
+        "OU":"Executive"
+    },
+    {   
+        "Username": "Executive_Intern1",
+        "OU":"Executive"
+    },
+    {   
+        "Username": "Executive_Intern2",
+        "OU":"Executive"
+    },
+    {   
+        "Username": "Executive_Intern3",
+        "OU":"Executive"
+    },
+    {   
+        "Username": "Executive_Intern4",
+        "OU":"Executive"
+    },
+    {   
+        "Username": "Executive_Intern5",
+        "OU":"Executive"
+    },
+    {   
+        "Username": "Executive_Intern6",
+        "OU":"Executive"
+    },
+    {   
+        "Username": "Executive_Intern7",
+        "OU":"Executive"
+    },
+    {   
+        "Username": "Executive_Intern8",
+        "OU":"Executive"
+    },
+    {   
+        "Username": "Executive_Intern9",
+        "OU":"Executive"
+    },
+    {   
+        "Username": "Executive_Intern10",
+        "OU":"Executive"
+    },
+    {   
+        "Username": "Executive_Intern11",
+        "OU":"Executive"
+    },
+    {   
+        "Username": "Executive_Intern12",
+        "OU":"Executive"
+    },
+    {   
+        "Username": "Executive_Intern13",
+        "OU":"Executive"
+    },
+    {   
+        "Username": "Executive_Intern14",
+        "OU":"Executive"
+    },
+    {   
+        "Username": "Executive_Intern15",
+        "OU":"Executive"
+    }
+]
